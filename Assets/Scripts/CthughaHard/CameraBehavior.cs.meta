@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3e9654767399047c3b98160e29247b93
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SinglePrefab: {fileID: 6382252575586326755, guid: 24a9340e8fb784abfb12fc0b56790ff6, type: 3}
+  - TouchPrefab: {fileID: 4731119622108571503, guid: dc39a77b190794009b22d8625dc7f1c3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

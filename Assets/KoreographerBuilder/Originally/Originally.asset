@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: Originally
+  m_EditorClassIdentifier: 
+  mSourceClip: {fileID: 8300000, guid: 07b375928a9714b1d88671c500f77d51, type: 3}
+  mAudioFilePath: 
+  mSampleRate: -1
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 22050
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 26460
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  mTracks:
+  - {fileID: 11400000, guid: b55c4307098da48f4aea6830b1379160, type: 2}
+  - {fileID: 11400000, guid: 9d296dce8629f48af821e4131d820a03, type: 2}
+  - {fileID: 11400000, guid: 793e0cb087bda4b2cbca5e34942e2d22, type: 2}
+  - {fileID: 11400000, guid: eb45b96b298c240afad09a04140815e3, type: 2}
+  - {fileID: 11400000, guid: 9f6690ffedf914575bf355f9092de378, type: 2}
+  - {fileID: 11400000, guid: ee3b5de4465bd4a9486414de880a3934, type: 2}

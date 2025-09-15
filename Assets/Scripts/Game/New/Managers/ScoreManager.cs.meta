@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c3d1bd08a57f34252aa053585a8bde05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainLine: {instanceID: 0}
+  - topLine: {instanceID: 0}
+  - bottomLine: {instanceID: 0}
+  - area: {instanceID: 0}
+  - back: {instanceID: 0}
+  - singlePrefab: {fileID: 3059994691701590567, guid: 83fe6f46be8e440d6add56ebcae3ba20, type: 3}
+  - touchPrefab: {instanceID: 0}
+  - pressPrefab: {instanceID: 0}
+  - spotsPanel: {instanceID: 0}
+  - blackInGame: {instanceID: 0}
+  - blackBack: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
